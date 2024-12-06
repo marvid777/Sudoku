@@ -11,3 +11,5 @@ grid = [[5,3,0,0,7,0,0,0,0],
 
 # print(grid)
 print(np.matrix(grid))
+
+
