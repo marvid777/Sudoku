@@ -30,9 +30,9 @@ def possible(y,x,n) :
         return True
 
 
-possible(4,4,3)
+# possible(4,4,3)
 
-possible(4,4,5)
+# possible(4,4,5)
 
 
 
